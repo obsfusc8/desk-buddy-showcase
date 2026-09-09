@@ -1,0 +1,6 @@
+{
+  "name": "Desk Buddy v2.0 Showcase",
+  "description": "High-end presentation, interactive hardware simulator, professional schematic circuit workbench, and companion dashboard for the ESP32-S3 Desk Buddy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
