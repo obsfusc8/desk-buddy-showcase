@@ -10,7 +10,25 @@ monitoring.
 The live showcase is available at
 [deskbuddyshowcase.netlify.app](https://deskbuddyshowcase.netlify.app/).
 It opens with the Desk Buddy v2.0 showcase and presents the project as an
-interactive Windows XP-inspired workbench. The main experiences are:
+interactive Windows XP-inspired workbench.
+
+<div align="center">
+  <img src="docs/screenshots/signal-topology.png" alt="Interactive signal topology and live OLED kinematics view" />
+</div>
+
+<div align="center">
+  <img src="docs/screenshots/device-simulator.png" alt="Desk Buddy device simulator with OLED display and touch controls" />
+</div>
+
+<div align="center">
+  <img src="docs/screenshots/circuit-schematic.png" alt="Desk Buddy ESP32-S3 circuit schematic and signal inspector" />
+</div>
+
+<div align="center">
+  <img src="docs/screenshots/web-portal.png" alt="Desk Buddy web portal with remote controls and expression triggers" />
+</div>
+
+The main experiences are:
 
 - A live device simulator with a 128x64 OLED view, touch gestures, moods,
   games, timers, and synthesized feedback.
