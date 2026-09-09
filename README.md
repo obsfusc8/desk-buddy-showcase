@@ -1,4 +1,27 @@
-# Desk-buddy-showcase
+<div align="center">
+
+# `desk-buddy-showcase`
+
+**An interactive ESP32-S3 desktop companion, presented as a web workbench.**
+
+<p>
+  <a href="https://deskbuddyshowcase.netlify.app/"><img src="https://img.shields.io/badge/live_demo-00c853?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo" /></a>
+  <a href="https://github.com/obsfusc8/desk-buddy-showcase/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-00a67d?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="MIT license" /></a>
+  <img src="https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react&logoColor=white" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-5.7-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-6-646cff?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/ESP32--S3-hardware-e7352c?style=flat-square&logo=espressif&logoColor=white" alt="ESP32-S3 hardware" />
+</p>
+
+</div>
+
+```console
+$ desk-buddy --mode showcase
+> booting simulator...
+> OLED ........ online
+> touch ....... ready
+> signal bus .. 400 kHz
+```
 
 Desk Buddy is an interactive showcase for an ESP32-S3 desktop companion. The
 project combines a React and TypeScript web workbench with companion firmware
